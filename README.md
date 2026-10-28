@@ -1,36 +1,42 @@
-# Hi, I’m Arun 👋
+<div align="center">
 
-I’m an Android and Embedded Systems Developer passionate about building smart, connected, and reliable solutions for real-world devices.
+# Hi, I'm Arun 👋
 
-## About Me
-- Focused on Android app development and embedded systems
-- Interested in IoT, smart devices, GPS, BLE, and automotive connectivity
-- Experienced in working with hardware-driven applications and device communication protocols
-- Enjoy solving practical engineering challenges through clean and efficient development
+### Android & Embedded Systems Developer ⚡
 
-## Tech Stack
-- Android: Kotlin
-- Embedded / Firmware: C, C++, Makefile
-- IoT & Connectivity: BLE, GPS, OBD2, OTA updates
-- Smart Device Integration: Sensors, vehicle communication systems, mobile interfaces
+I build smart, connected, and practical solutions that bridge software with real-world devices.
 
-## Core Interests
+</div>
+
+## 🚀 About Me
+- Android Developer focused on mobile innovation and device integration
+- Passionate about IoT, GPS, BLE, smart devices, and embedded communication
+- Interested in building efficient systems that solve real-world challenges
+- Constantly improving my skills through hands-on projects and engineering work
+
+## 🛠️ Tech Stack
+- Kotlin
+- C / C++
+- Makefile
+- Android Studio
+- BLE, GPS, OBD2, OTA Update
+- Embedded systems and device communication
+
+## 💡 Core Focus
 - Android application development
-- Embedded systems and firmware integration
-- IoT solutions and smart device connectivity
-- GPS tracking and vehicle/device data monitoring
-- Real-time sensor and communication data handling
+- Embedded systems
+- Smart device and IoT integration
+- GPS tracking applications
+- Sensor-driven and real-time data solutions
 
-## Projects
-- GPS tracking display applications
+## 📁 Featured Work
+- GPS tracking and display applications
 - Smart IoT device applications
-- BLE and data communication systems
-- Embedded firmware for device testing and updates
-- OBD2 and sensor-based monitoring solutions
+- BLE-based communication systems
+- Embedded testing and firmware-related projects
+- OBD2 and sensor monitoring solutions
 
-## Connect
+## 🌐 Connect
 - GitHub: github.com/arunranga247
-- Email: [your-email]
-- Portfolio: [your-portfolio]
 
-> Building connected solutions for smarter devices and better experiences.
+> Building connected solutions for smarter devices and better experiences ✨
